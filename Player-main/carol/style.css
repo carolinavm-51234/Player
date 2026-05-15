@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Croissant+One&display=swap');
+
+body {
+    height: 100vh;
+    font-family: "Caveat", cursive;
+    background-image: url("thelastdrop.jpg") ;
+    color: azure;
+    margin: 300px;
+}
